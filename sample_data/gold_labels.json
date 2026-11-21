@@ -1,0 +1,5 @@
+{"_note": "Human relevance grades vs sample_data/job_description.txt: 3 = strong fit, 2 = plausible, 1 = weak, 0 = not a fit",
+ "Aarav Mehta": 3, "Meera Reddy": 3, "Neha Gupta": 3, "Isha Rao": 3,
+ "Priya Nair": 2, "Sneha Iyer": 2, "Rohan Kulkarni": 2,
+ "Vikram Singh": 1, "Sahil Khan": 1, "Divya Joshi": 1, "Arjun Verma": 1,
+ "Ananya Das": 0, "Karan Patel": 0, "Rahul Bansal": 0}

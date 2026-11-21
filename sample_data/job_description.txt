@@ -1,0 +1,22 @@
+Senior Java Backend Engineer
+
+About the role
+We are building a high-throughput payments platform and need a backend engineer to design and ship services used by millions of users.
+
+Responsibilities:
+- Design, build and maintain RESTful APIs and microservices using Java and Spring Boot
+- Model and optimise relational data in PostgreSQL and write efficient SQL
+- Containerise services with Docker and deploy them on AWS
+- Write automated tests with JUnit and participate in code reviews
+- Collaborate in an Agile team and own services end to end
+
+Requirements:
+- 4+ years of professional experience in backend development
+- Strong hands-on experience with Java, Spring Boot, SQL and REST APIs
+- Experience building microservices and working with Docker
+- Bachelor's degree in Computer Science or a related field
+
+Nice to have:
+- Kafka or other message brokers
+- Kubernetes and CI/CD pipelines
+- Redis caching
